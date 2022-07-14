@@ -2,7 +2,8 @@
 A program that, given a string, prints the top n closest words in descending order of weight, along with their weight. It takes a wikipedia of words (in a formatted text file) as an argument, and the value n as an argument. 
 
 # Before Use
-Please note that this code uses Princeton University's library of methods (seen imported at the top of the files). If one runs into issues using these libraries, please import other libraries that can get the same job done. This code is also compiled and ran using "javac-algs4" and "java-algs4". Please use "javac" and "java" instead if these do not work.
+Please note that this code uses a library of methods (seen imported at the top of the files). 
+Please follow this link(https://algs4.cs.princeton.edu/code/) to download the correct path to this library so that you may be able to run and use this code correctly. 
 
 # To use
 1. Download all the files in this repo
